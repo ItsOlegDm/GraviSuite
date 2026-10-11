@@ -1,0 +1,31 @@
+{
+  "type": "ic2:shaped",
+  "pattern": [
+    "PEP",
+    "CVC",
+    "ALA"
+  ],
+  "key": {
+    "P": {
+      "tag": "forge:plates/iron"
+    },
+    "E": {
+      "item": "ic2:energy_crystal"
+    },
+    "C": {
+      "item": "ic2:carbon_plate"
+    },
+    "V": {
+      "item": "gravisuite:vajra_core"
+    },
+    "A": {
+      "item": "ic2:alloy"
+    },
+    "L": {
+      "item": "ic2:lapotron_crystal"
+    }
+  },
+  "result": {
+    "item": "gravisuite:vajra"
+  }
+}

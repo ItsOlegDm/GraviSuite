@@ -1,0 +1,28 @@
+{
+  "type": "ic2:shaped",
+  "pattern": [
+    " M ",
+    "PTP",
+    "SHS"
+  ],
+  "key": {
+    "M": {
+      "item": "gravisuite:magnetron"
+    },
+    "P": {
+      "item": "ic2:iridium"
+    },
+    "T": {
+      "item": "ic2:tesla_coil"
+    },
+    "S": {
+      "item": "gravisuite:superconductor"
+    },
+    "H": {
+      "item": "ic2:hv_transformer"
+    }
+  },
+  "result": {
+    "item": "gravisuite:vajra_core"
+  }
+}

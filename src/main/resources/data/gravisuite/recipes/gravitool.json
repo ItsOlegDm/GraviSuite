@@ -1,0 +1,34 @@
+{
+  "type": "ic2:shaped",
+  "pattern": [
+    "PHP",
+    "AEA",
+    "WCT"
+  ],
+  "key": {
+    "P": {
+      "item": "ic2:carbon_plate"
+    },
+    "H": {
+      "item": "minecraft:diamond_hoe"
+    },
+    "A": {
+      "item": "ic2:alloy"
+    },
+    "E": {
+      "item": "ic2:energy_crystal"
+    },
+    "W": {
+      "item": "ic2:electric_wrench"
+    },
+    "C": {
+      "item": "ic2:advanced_circuit"
+    },
+    "T": {
+      "item": "ic2:electric_treetap"
+    }
+  },
+  "result": {
+    "item": "gravisuite:gravitool"
+  }
+}

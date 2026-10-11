@@ -1,0 +1,28 @@
+{
+  "type": "ic2:shaped",
+  "pattern": [
+    "GAG",
+    "COC",
+    "AVA"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "A": {
+      "item": "ic2:alloy"
+    },
+    "C": {
+      "item": "ic2:advanced_circuit"
+    },
+    "O": {
+      "item": "ic2:overclocker_upgrade"
+    },
+    "V": {
+      "item": "ic2:advanced_heat_vent"
+    }
+  },
+  "result": {
+    "item": "gravisuite:engine_booster"
+  }
+}

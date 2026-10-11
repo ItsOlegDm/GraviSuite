@@ -1,0 +1,17 @@
+{
+  "tool_change": {
+    "sounds": [
+      "gravisuite:tool_change"
+    ]
+  },
+  "wrench": {
+    "sounds": [
+      "gravisuite:wrench"
+    ]
+  },
+  "treetap": {
+    "sounds": [
+      "gravisuite:treetap"
+    ]
+  }
+}
